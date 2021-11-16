@@ -1,6 +1,9 @@
 import { NuxtConfig } from '@nuxt/types'
 
 export default {
+  rotuer: {
+    base: process.env.NODE_ENV == 'development' ? '' : '/zahra/',
+  },
   ssr: false,
   target: 'static',
   head: {
