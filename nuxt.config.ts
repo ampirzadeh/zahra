@@ -1,7 +1,7 @@
 import { NuxtConfig } from '@nuxt/types'
 
 export default {
-  rotuer: {
+  router: {
     base: process.env.NODE_ENV == 'development' ? '' : '/zahra/',
   },
   ssr: false,
