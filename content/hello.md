@@ -19,7 +19,6 @@ Learn how to display your Markdown content with the `<nuxt-content>` component d
 
 - hello
 - hi
-- bye
 
 | Hi   | Bye   | Hello |
 | ---- | ----- | ----- |
