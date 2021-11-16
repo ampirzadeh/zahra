@@ -9,6 +9,7 @@
 
 <script>
 export default {
+  name: "HomePage",
   async asyncData({ $content }) {
     const document = await $content('hello').fetch()
 
