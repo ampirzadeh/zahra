@@ -4,7 +4,6 @@ export default {
   router: {
     base: process.env.NODE_ENV == 'development' ? '' : '/zahra/',
   },
-  ssr: false,
   target: 'static',
   head: {
     title: 'zahra',
