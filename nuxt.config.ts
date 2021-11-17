@@ -2,7 +2,7 @@ import { NuxtConfig } from '@nuxt/types'
 
 export default {
   router: {
-    base: process.env.NODE_ENV == 'development' ? '' : '/zahra/',
+    base: process.env.NODE_ENV === 'development' ? '' : '/zahra/',
   },
   target: 'static',
   head: {
