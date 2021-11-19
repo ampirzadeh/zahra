@@ -1,6 +1,7 @@
 import { NuxtConfig } from '@nuxt/types'
 
 export default {
+  ssr: true,
   router: {
     base: process.env.NODE_ENV === 'development' ? '' : '/zahra/',
   },
@@ -21,7 +22,7 @@ export default {
   css: [],
   plugins: [],
   components: true,
-  buildModules: ['@nuxt/typescript-build', 'nuxt-windicss'],
+  buildModules: ['@nuxt/typescript-build', '@nuxtjs/tailwindcss'],
   modules: ['@nuxt/content'],
   content: {},
   build: {},

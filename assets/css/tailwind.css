@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#personal-data p {
+  @apply !my-1;
+}
+p {
+  @apply leading-tight !my-2;
+}
