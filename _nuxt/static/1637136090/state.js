@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fzahra\u002F_nuxt\u002Fstatic\u002F1637136090",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Fzahra\u002F",assetsPath:"\u002Fzahra\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"e88c5dd1"}}}}(null));
