@@ -1,7 +1,7 @@
 ---
 Name: Zahra
 Surname: Faraei
-Image: /me.jpg
+Image: /zahra/me.jpg
 ImageDesc: A picture of Zahra Farei
 Nationality: Iranian
 Gender: Female
