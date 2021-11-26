@@ -47,8 +47,6 @@ jobs:
 
       - name: Run linter 👀
         run: yarn lint
-      - name: Run prettier
-        run: yarn prettify
       - name: Generate
         run: yarn generate
       - name: Deploy 🚀
